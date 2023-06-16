@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HanmuraDEV
 - 👀 I’m interested in learning frontend developing.
-- 🌱 I’m currently learning Javascript. 
+- 🌱 I’m currently learning Javascript & Astro. 
 
 
 <!---
